@@ -1,0 +1,95 @@
+REMARK Number:  1
+REMARK Cluster:  1  1
+REMARK Cluster:  1  1
+REMARK Ligand Name   :  peptide_models.pdb
+REMARK ITScore       :  -190.159
+REMARK RMSD          :    49.600
+MODEL    1
+ATOM      1  N   GLN B   1     -26.098  -1.351  36.222
+ATOM      2  CA  GLN B   1     -26.509   0.027  35.988
+ATOM      3  C   GLN B   1     -27.872   0.111  35.314
+ATOM      4  O   GLN B   1     -28.207  -0.712  34.473
+ATOM      5  CB  GLN B   1     -25.445   0.744  35.138
+ATOM      6  CG  GLN B   1     -25.761   2.212  34.818
+ATOM      7  CD  GLN B   1     -24.649   2.911  34.037
+ATOM      8  OE1 GLN B   1     -24.181   2.410  33.013
+ATOM      9  NE2 GLN B   1     -24.232   4.078  34.517
+ATOM     10  N   ALA B   2     -28.671   1.078  35.667
+ATOM     11  CA  ALA B   2     -30.019   1.203  35.046
+ATOM     12  C   ALA B   2     -29.882   1.751  33.620
+ATOM     13  O   ALA B   2     -29.333   2.817  33.425
+ATOM     14  CB  ALA B   2     -30.871   2.165  35.878
+ATOM     15  N   ASP B   3     -30.377   0.991  32.630
+ATOM     16  CA  ASP B   3     -30.311   1.430  31.231
+ATOM     17  C   ASP B   3     -30.992   2.793  31.037
+ATOM     18  O   ASP B   3     -30.485   3.669  30.314
+ATOM     19  CB  ASP B   3     -30.974   0.403  30.324
+ATOM     20  CG  ASP B   3     -31.137  -0.944  31.000
+ATOM     21  OD1 ASP B   3     -30.193  -1.777  30.931
+ATOM     22  OD2 ASP B   3     -32.183  -1.258  31.625
+ATOM     23  N   PRO B   4     -32.144   3.062  31.754
+ATOM     24  CA  PRO B   4     -33.155   3.946  31.131
+ATOM     25  C   PRO B   4     -32.850   5.424  31.339
+ATOM     26  O   PRO B   4     -31.680   5.857  31.284
+ATOM     27  CB  PRO B   4     -34.456   3.568  31.872
+ATOM     28  CG  PRO B   4     -33.970   3.262  33.292
+ATOM     29  CD  PRO B   4     -32.532   2.704  33.142
+ATOM     30  N   ASN B   5     -33.900   6.199  31.571
+ATOM     31  CA  ASN B   5     -33.810   7.636  31.790
+ATOM     32  C   ASN B   5     -33.075   8.385  30.689
+ATOM     33  O   ASN B   5     -32.280   9.277  30.966
+ATOM     34  CB  ASN B   5     -33.154   7.929  33.141
+ATOM     35  CG  ASN B   5     -33.943   7.356  34.301
+ATOM     36  OD1 ASN B   5     -35.171   7.466  34.352
+ATOM     37  ND2 ASN B   5     -33.241   6.745  35.245
+ATOM     38  N   ALA B   6     -33.339   8.009  29.443
+ATOM     39  CA  ALA B   6     -32.704   8.608  28.275
+ATOM     40  C   ALA B   6     -33.523   9.710  27.597
+ATOM     41  O   ALA B   6     -34.734   9.840  27.814
+ATOM     42  CB  ALA B   6     -32.369   7.517  27.268
+ATOM     43  N   PHE B   7     -32.860  10.510  26.760
+ATOM     44  CA  PHE B   7     -33.538  11.615  26.107
+ATOM     45  C   PHE B   7     -33.381  11.647  24.591
+ATOM     46  O   PHE B   7     -32.687  12.505  24.047
+ATOM     47  CB  PHE B   7     -33.023  12.916  26.710
+ATOM     48  CG  PHE B   7     -32.848  12.855  28.198
+ATOM     49  CD1 PHE B   7     -31.649  13.235  28.784
+ATOM     50  CD2 PHE B   7     -33.884  12.426  29.022
+ATOM     51  CE1 PHE B   7     -31.483  13.189  30.161
+ATOM     52  CE2 PHE B   7     -33.726  12.377  30.408
+ATOM     53  CZ  PHE B   7     -32.522  12.760  30.975
+ATOM     54  N   TYR B   8     -34.056  10.693  23.964
+ATOM     55  CA  TYR B   8     -34.141  10.495  22.520
+ATOM     56  C   TYR B   8     -35.260   9.461  22.362
+ATOM     57  O   TYR B   8     -35.023   8.326  21.939
+ATOM     58  CB  TYR B   8     -32.827   9.955  21.933
+ATOM     59  CG  TYR B   8     -32.818   9.905  20.412
+ATOM     60  CD1 TYR B   8     -31.629   9.757  19.699
+ATOM     61  CD2 TYR B   8     -34.006  10.016  19.684
+ATOM     62  CE1 TYR B   8     -31.626   9.723  18.293
+ATOM     63  CE2 TYR B   8     -34.013   9.981  18.293
+ATOM     64  CZ  TYR B   8     -32.822   9.835  17.602
+ATOM     65  OH  TYR B   8     -32.856   9.792  16.226
+ATOM     66  N   GLY B   9     -36.486   9.855  22.664
+ATOM     67  CA  GLY B   9     -37.591   8.926  22.543
+ATOM     68  C   GLY B   9     -38.877   9.627  22.900
+ATOM     69  O   GLY B   9     -38.847  10.787  23.314
+ATOM     70  N   LEU B  10     -39.998   8.955  22.707
+ATOM     71  CA  LEU B  10     -41.288   9.521  23.044
+ATOM     72  C   LEU B  10     -41.500   9.330  24.544
+ATOM     73  O   LEU B  10     -40.812   8.528  25.168
+ATOM     74  CB  LEU B  10     -42.394   8.777  22.277
+ATOM     75  CG  LEU B  10     -42.490   9.019  20.764
+ATOM     76  CD1 LEU B  10     -43.315   7.942  20.091
+ATOM     77  CD2 LEU B  10     -43.088  10.395  20.508
+ATOM     78  N   MET B  11     -42.460  10.054  25.104
+ATOM     79  CA  MET B  11     -42.669  10.004  26.538
+ATOM     80  C   MET B  11     -44.134   9.877  26.947
+ATOM     81  O   MET B  11     -44.959  10.708  26.595
+ATOM     82  CB  MET B  11     -42.046  11.221  27.207
+ATOM     83  CG  MET B  11     -42.071  11.112  28.684
+ATOM     84  SD  MET B  11     -41.564  12.581  29.570
+ATOM     85  CE  MET B  11     -42.414  12.201  31.095
+ATOM     86  OXT MET B  11     -44.516   8.942  27.637
+TER
+ENDMDL
